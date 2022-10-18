@@ -1,7 +1,7 @@
 #include <eosio/eosio.hpp>
 #include <algorithm>
 
-#include <atomicdata.hpp>
+#include "atomicdata.hpp"
 
 using namespace eosio;
 using namespace std;

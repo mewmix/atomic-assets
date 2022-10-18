@@ -2,8 +2,8 @@
 #include <eosio/singleton.hpp>
 #include <eosio/asset.hpp>
 
-#include <checkformat.hpp>
-#include <atomicdata.hpp>
+#include "checkformat.hpp"
+#include "atomicdata.hpp"
 
 using namespace eosio;
 using namespace std;

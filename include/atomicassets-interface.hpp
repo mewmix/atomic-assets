@@ -7,9 +7,9 @@ and custom data types.
 */
 
 
-#include <eosio/eosio.hpp>
-#include <eosio/singleton.hpp>
-#include <eosio/asset.hpp>
+#include "eosio/eosio.hpp"
+#include "eosio/singleton.hpp"
+#include "eosio/asset.hpp"
 
 using namespace eosio;
 using namespace std;
